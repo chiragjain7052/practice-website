@@ -1,0 +1,27 @@
+h1, .heading {
+  color: red;
+  text-align: center;
+}
+
+a {
+  padding-right: 20px;
+}
+
+.bar {
+  text-align: center;
+}
+
+.left-box {
+    border: 2px solid blue;
+    height: fit-content;
+    width: 50%;
+    margin: 0;
+    display: inline-block;
+}
+
+.right-box {
+    border: 2px solid blue;
+    height: fit-content;
+    margin-left: 53%;
+    display: inline-block;
+}
